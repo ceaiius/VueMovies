@@ -160,7 +160,7 @@ export default {
           display: flex;
           img {
             display: block;
-            width: max-content;
+            max-width: 183.33px;
             margin-left: auto;
             margin-right: auto;
             height: 275px;
